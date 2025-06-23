@@ -71,7 +71,7 @@ Here are a few things I’ve built:
 ## 📫 Connect With Me
 
 - 📧 Email: nivafaith@gmail.com||faitholesi99@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/faitholesi591ab126b/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/faitholesi591ab126b/)||https://www.linkedin.com/in/niva-faith-67a902346/
 - 🧠 Dev Blog or Portfolio:(https://sites.google.com/view/faith-niva-olesi/home)
 
 > 💬 *Always open to collaboration, mentorship, and creative tech conversations!*
