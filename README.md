@@ -62,7 +62,7 @@ Here are a few things I’ve built:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faith254-UL&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faith-254-UL&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faith Niva Olesi&theme=radical" />
 </p>
 
