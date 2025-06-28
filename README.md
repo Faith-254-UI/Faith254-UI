@@ -70,8 +70,9 @@ Here are a few things I’ve built on freeCodeCamp:
 
 ## 📫 Connect With Me
 
-- 📧 Email: nivafaith@gmail.com &nbsp;|&nbsp; faitholesi99@gmail.com
-- 💼 [LinkedIn #1](https://www.linkedin.com/in/faitholesi591ab126b/) &nbsp;|&nbsp; [LinkedIn #2](https://www.linkedin.com/in/niva-faith-67a902346/)
+- 📧 Email: nivafaith@gmail.com &nbsp;|&nbsp; faitholesi99@gmail.com  
+- 💼 [LinkedIn #1](https://www.linkedin.com/in/faitholesi591ab126b/) &nbsp;|&nbsp; [LinkedIn #2](https://www.linkedin.com/in/niva-faith-67a902346/)  
+- [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/NivaFaith) [X (Twitter)](https://x.com/NivaFaith)
 - 🌐 [Portfolio / Dev Blog](https://sites.google.com/view/faith-niva-olesi/home)
 
 > 💬 _Always open to collaboration, mentorship, and creative tech conversations!_
